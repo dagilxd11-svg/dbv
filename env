@@ -1,0 +1,6 @@
+# Completa con los datos de tu conexión de DBeaver (F4 > pestaña Main)
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=CAMBIA_ESTE_USUARIO
+DB_PASSWORD=CAMBIA_ESTA_CLAVE
+DB_NAME=CAMBIA_EL_NOMBRE_DE_LA_BASE
